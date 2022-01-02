@@ -1,6 +1,7 @@
 # urr090b-bug01
 Exploring starting civilization castle
 game continues to play as normal, but a thing appeared in console
+
 Apologies, I am unable to upload the world save to Git (not even as a 7z!). I can upload it somewhere else if you wish.
 
 PLEASE REPORT THIS BUG!
